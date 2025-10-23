@@ -6,3 +6,5 @@ Predict vehicle price instantly based on inputs
 Select engine, fuel, transmission, body type, drivetrain, cylinders, doors, mileage, and year
 Modern dark-themed UI with glass-style cards
 Clean column layout for intuitive input
+
+LIVE DEMO : https://uwttgugjdpcvqi83c4n6rl.streamlit.app/
